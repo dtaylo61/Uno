@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Uno
 {
-    class Deck
+    class Deck : Card
     {
         public void Shuffle()
         {

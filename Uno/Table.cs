@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Uno
 {
-    class Table
+    class Table : Card
     {
+        
+
         public void DrawCard()
         {
 
